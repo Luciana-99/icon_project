@@ -1,0 +1,13 @@
+LINK file google collab
+
+Prostate cancer
+https://colab.research.google.com/drive/1AULI5cpaDXNlCMFkeI6TU5hkc8zfkhQc#scrollTo=PIuOn-UAtQuc
+
+Parkinson
+https://colab.research.google.com/drive/1LIUoOIlXGxZdCF0Deq6PplVckOPX8j24
+
+Lungcancer
+https://colab.research.google.com/drive/1xXTMVi0AjZ20tONPErW9-QEgvDAH7xzz
+
+Heart 
+https://colab.research.google.com/drive/16aQvKDQBCo7XJryn1GnACAo0dZxvpPw8
