@@ -1,5 +1,5 @@
-# icon_project
-Sistema di diagnostica e predizione 
+# Sistema di diagnostica e predizione
+
 
 Per avviare il sistema di diagnostica bisogna prima eseguire da terminale il requirements1.txt della cartella sistemaES.
 Successivamente, sempre da terminale eseguire il seguente comando : 
